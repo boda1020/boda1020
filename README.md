@@ -1,21 +1,20 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+<div align='center'>
 
-<h1 align="center">Welcome to My world 🖐😎 </h1>
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
 
 ## ![welcome-gif ](https://media.giphy.com/media/Npdl9kOaKFJHuRCBGx/giphy.gif?cid=ecf05e47p8orbik4a9r8t000gh81495x5pa58b1itq0wco3w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+<h1 align="center">Welcome to My world 🖐😎 </h1>
 
 ## About Me
 
 I'm Abdulrahman Khamis, a dedicated student at Borg El Arab Technological University, pursuing a degree in Information Technology. Passionate about coding and technology, I thrive on tackling challenges and learning new skills!
 <br>
 Based in Burj Al Arab, Alexandria, I'm currently studying at Borg El Arab Technological University in the Department of Information Technology. <br> I enjoy exploring the latest technologies and contributing to open-source projects.
-
-
-## GitHub Thropies 🏆 :
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
-
 
 ## Skills & Technologies
 
@@ -44,9 +43,12 @@ Based in Burj Al Arab, Alexandria, I'm currently studying at Borg El Arab Techno
 - **Following:** 3  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boda1020&show_icons=true&theme=radical)
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boda1020&theme=dracula)](https://git.io/streak-stats)
+      
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=boda1020&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
 ## Recent Activity
 
@@ -82,9 +84,5 @@ Based in Burj Al Arab, Alexandria, I'm currently studying at Borg El Arab Techno
 ## The conclusion
 
 Thank you for visiting my profile! I'm always open to new opportunities and collaborations. Feel free to reach out!
-<div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 
