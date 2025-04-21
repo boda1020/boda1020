@@ -13,8 +13,8 @@
 ## About Me
 
 I'm Abdulrahman Khamis, a dedicated student at Borg El Arab Technological University, pursuing a degree in Information Technology. Passionate about coding and technology, I thrive on tackling challenges and learning new skills!
-<br>
-Based in Burj Al Arab, Alexandria, I'm currently studying at Borg El Arab Technological University in the Department of Information Technology. <br> I enjoy exploring the latest technologies and contributing to open-source projects.
+Based in Burj Al Arab, Alexandria, I'm currently studying at Borg El Arab Technological University in the Department of Information Technology.
+Ienjoy exploring the latest technologies and contributing to open-source projects.
 
 ## Skills & Technologies
 
