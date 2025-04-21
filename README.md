@@ -1,16 +1,16 @@
-
-<div>
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<img align="right" alt="GIF" height="320px" width="500px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-</div>
 <h1 align="center">Welcome to My world 🖐😎</h1>
+<div>
+<img align="left" alt="GIF" height="300px" width="500px" position="relative" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<img align="right" alt="GIF" height="300px" width="500px" position="relative" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</div>
+<br>
+
+<h2>About Me</h2> 
+
 
 I'm Abdulrahman Khamis, a dedicated student at Borg El Arab Technological University, pursuing a degree in Information Technology. Passionate about coding and technology, I thrive on tackling challenges and learning new skills!
-
-
-## About Me
-
+<br>
 Based in Burj Al Arab, Alexandria, I'm currently studying at Borg El Arab Technological University in the Department of Information Technology. I enjoy exploring the latest technologies and contributing to open-source projects.
 
 
