@@ -1,7 +1,11 @@
-## Welcome to My world 🖐😎
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<br>
+<div>
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<img align="right" alt="GIF" height="320px" width="500px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</div>
+<h1 align="center">Welcome to My world 🖐😎</h1>
+
 I'm Abdulrahman Khamis, a dedicated student at Borg El Arab Technological University, pursuing a degree in Information Technology. Passionate about coding and technology, I thrive on tackling challenges and learning new skills!
 
 
@@ -16,14 +20,13 @@ Based in Burj Al Arab, Alexandria, I'm currently studying at Borg El Arab Techno
 
 
 ## Skills & Technologies
-
-html,css,git,github,c,java,js,linux,py,mysql,php,bootstrap,arduino,vscode
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## Top Projects
 
 
-- [Online-store](https://github.com/zezo2323/online_store)
-A collaborative Online-store project where I contributed to multiple sections and functionalities
+- [Online-store](https://github.com/zezo2323/online_store) <br>
+A collaborative Online-store project where I contributed to multiple sections and functionalities. <br>
   ⭐ 0 Stars | Primary Language: Not Specified  
   Forks: 0 | Open Issues: 0
 
@@ -66,11 +69,11 @@ A collaborative Online-store project where I contributed to multiple sections an
 
 
 ```
-              _               _       
-             | |__   ___   __| | __ _
-             | '_ \ / _ \ / _` |/ _` | 
-             | |_) | (_) | (_| | (_| | 
-             |_.__/ \___/ \__,_|\__,_|
+ _               _       
+| |__   ___   __| | __ _
+| '_ \ / _ \ / _` |/ _` | 
+| |_) | (_) | (_| | (_| |
+|_.__/ \___/ \__,_|\__,_|
                                             
 ```
 
@@ -78,6 +81,6 @@ A collaborative Online-store project where I contributed to multiple sections an
 
 <div align='center'>
 
-## <b>✨...السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</b>
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
