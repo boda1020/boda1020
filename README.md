@@ -43,7 +43,6 @@ Ienjoy exploring the latest technologies and contributing to open-source project
 - **Following:** 3  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boda1020&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boda1020&theme=dracula)](https://git.io/streak-stats)
       
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
